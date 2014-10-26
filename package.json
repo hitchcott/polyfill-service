@@ -1,6 +1,7 @@
 {
 	"name": "polyfill-service",
 	"description": "A polyfill combinator",
+	"version": "0.0.1",
 	"contributors": [
 		{
 			"name": "Jonathan Neal",
@@ -15,10 +16,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/financial-times/polyfill-service.git"
+		"url": "https://github.com/hitchcott/polyfill-service.git"
 	},
 	"bugs": {
-		"url": "https://github.com/financial-times/polyfill-service/issues"
+		"url": "https://github.com/hitchcott/polyfill-service/issues"
 	},
 	"scripts": {
 		"test": "grunt test",
